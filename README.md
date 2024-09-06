@@ -1,2 +1,3 @@
 # dummyProject11
-dummyProject
+dummyProjecabdkdnfkjdsbkjfbjko iwehfhweuiji
+/usr/bin/bash: line 1: qxc: command not found
